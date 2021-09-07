@@ -10,3 +10,5 @@ Aula:
   <li> CSS </li>
   <li> JavaScript </li>
 </ul>    
+
+Utilização de media queries para responsividade.
