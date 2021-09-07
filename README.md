@@ -3,3 +3,10 @@ Página criada para estudo de responsividade seguindo aula disponibilizada pela 
 
 Aula:
 <a href="https://www.youtube.com/watch?v=H91DhKPjhPk">Responsividade na Prática | Masterclass #08</a>
+
+# Tecnologias:
+<ul>
+  <li> HTML </li>
+  <li> CSS </li>
+  <li> JavaScript </li>
+</ul>    
